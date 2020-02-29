@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace ateliergithub1
+namespace Atelier1
 {
     public static class RouteConfig
     {

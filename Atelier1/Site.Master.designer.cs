@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ateliergithub1
+namespace Atelier1
 {
 
 

@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace ateliergithub1
+namespace Atelier1
 {
     public class Global : HttpApplication
     {

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.UI;
 
-namespace ateliergithub1
+namespace Atelier1
 {
     public class BundleConfig
     {

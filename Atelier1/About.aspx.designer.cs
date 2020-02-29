@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ateliergithub1
+namespace Atelier1
 {
 
 
-    public partial class _Default
+    public partial class About
     {
     }
 }

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ateliergithub1 {
+namespace Atelier1 {
     
     
     public partial class Site_Mobile {
